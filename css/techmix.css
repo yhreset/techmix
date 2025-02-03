@@ -1,0 +1,22 @@
+/* -------------------------------------------------------
+    for techmix
+------------------------------------------------------- */
+
+.full-screen {
+  max-height: 70vh;
+}
+.mb-0px{
+    margin-bottom:0
+}
+.primary-bg-color{
+    background-color: #F4F5F6;
+}
+.secondary-bg-focus-color{
+    background-color: #00BCB5;
+}
+.bg-wh-color{
+    background-color: #fff;
+}
+.opacity75{
+    opacity: 75%;
+}
