@@ -40,7 +40,7 @@ Table of contents
     02. CSS color variable
 ====================================== */
 :root {
-  --base-color: #2946f3;
+  --base-color: #0074ea;
   --white: #ffffff;
   --black: #000000;
   --red: #dc3131;
@@ -7168,6 +7168,7 @@ header.sticky .navbar.disable-fixed {
   animation: hide-animation 0.5s;
   -webkit-border-radius: 0;
   border-radius: 0;
+  z-index:50;
 }
 .navbar .navbar-nav .dropdown .dropdown-menu li:last-child > a {
   padding-bottom: 0;
