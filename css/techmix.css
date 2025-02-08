@@ -8,6 +8,9 @@
 .mb-0px{
     margin-bottom:0
 }
+.p-10px{
+    padding-top:10px !important
+}
 .primary-bg-color{
     background-color: #F4F5F6;
 }
@@ -19,4 +22,14 @@
 }
 .opacity75{
     opacity: 75%;
+}
+table{
+    width:100%
+}
+.biztrack-box{
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(23, 23, 23, 0.15)
+}
+.biztrack-box img{
+    max-width: 130px;
 }

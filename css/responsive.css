@@ -27,7 +27,7 @@
 }
 @media (max-width: 1600px) {
   section {
-    padding-top: 40px;
+    padding-top: 20px;
     padding-bottom: 40px;
   }
   section.big-section {
@@ -35,7 +35,7 @@
     padding-bottom: 20px;
   }
   section.extra-big-section {
-    padding-top: 40px;
+    padding-top: 20px;
     padding-bottom: 40px;
   }
 }
@@ -81,7 +81,7 @@
     font-size: 12px;
   }
   section {
-    padding-top: 50px;
+    padding-top: 30px;
     padding-bottom: 50px;
   }
   section.half-section {
@@ -89,11 +89,11 @@
     padding-bottom: 40px;
   }
   section.big-section {
-    padding-top: 50px;
+    padding-top: 30px;
     padding-bottom: 50px;
   }
   section.extra-big-section {
-    padding-top: 50px;
+    padding-top: 30px;
     padding-bottom: 50px;
   }
   .row.sm-gutter-very-small {
