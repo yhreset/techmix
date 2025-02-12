@@ -36,3 +36,6 @@ table{
 .client-box img{
     max-width: 90%;
 }
+.filter-grayscale-50{
+    filter: grayscale(50%);
+}
