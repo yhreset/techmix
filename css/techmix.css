@@ -39,3 +39,8 @@ table{
 .filter-grayscale-50{
     filter: grayscale(50%);
 }
+.text-gradient-emerald-blue-emerald-green {
+    background-image: linear-gradient(to right top, #0074ea, #09afea);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
